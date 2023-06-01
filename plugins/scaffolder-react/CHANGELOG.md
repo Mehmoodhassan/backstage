@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-react
 
+## 1.5.0-next.2
+
+### Patch Changes
+
+- cf34311cdbe1: Extract `ui:*` fields from conditional `then` and `else` schema branches.
+
 ## 1.5.0-next.1
 
 ### Minor Changes

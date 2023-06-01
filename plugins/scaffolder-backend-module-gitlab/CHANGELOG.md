@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend-module-gitlab
 
+## 0.2.1-next.2
+
+### Patch Changes
+
+- 30e6edd7f6a5: Add support for dry run for `gitlab:group:ensureExists` action.
+
 ## 0.2.1-next.1
 
 ### Patch Changes

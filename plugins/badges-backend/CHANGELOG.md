@@ -1,5 +1,11 @@
 # @backstage/plugin-badges-backend
 
+## 0.2.1-next.2
+
+### Patch Changes
+
+- 4474f44c5ee7: Adding migrations to the packages.json
+
 ## 0.2.1-next.1
 
 ### Patch Changes

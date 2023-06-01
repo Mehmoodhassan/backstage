@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.11.1-next.2
+
+### Patch Changes
+
+- 5e4879d80f4d: Fixed wrong `pluginID` in the `kubernetes` alpha backend support, that made the `kubernetes` plugin fail with the new experimental backend.
+
 ## 0.11.1-next.1
 
 ### Patch Changes

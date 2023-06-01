@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.15.0-next.2
+
+### Patch Changes
+
+- 11e0f625583f: Fix wrong gitlabUrl format in repoUrl input description
+
 ## 1.15.0-next.1
 
 ### Minor Changes

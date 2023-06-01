@@ -1,5 +1,11 @@
 # @backstage/plugin-tech-insights
 
+## 0.3.11-next.2
+
+### Patch Changes
+
+- c03307ded3e6: The check description is now rendered with markdown.
+
 ## 0.3.11-next.1
 
 ### Patch Changes

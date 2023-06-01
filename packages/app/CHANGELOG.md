@@ -1,5 +1,14 @@
 # example-app
 
+## 0.2.84-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-tech-insights@0.3.11-next.2
+  - @backstage/plugin-scaffolder-react@1.5.0-next.2
+  - @backstage/plugin-scaffolder@1.13.2-next.2
+
 ## 0.2.84-next.1
 
 ### Patch Changes

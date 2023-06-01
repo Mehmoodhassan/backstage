@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-backend-module-gitlab
 
+## 0.2.2-next.2
+
+### Patch Changes
+
+- 66261b4ab441: Added option to skip forked repos
+
 ## 0.2.2-next.1
 
 ### Patch Changes
